@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 张益达小站
+subtitle: '没有过不了的坑,只有吃不完的苦'
 description: ''
 keywords:
-author: John Doe
+author: p-nickzhang-q
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
