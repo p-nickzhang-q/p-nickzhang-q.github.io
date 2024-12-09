@@ -12,12 +12,12 @@ site:
   subtitle: zhangyida's Blog
   author: zhangyida
   nick: zhangyida
-  description:
+  description: <p>没有过不了的坑,只有吃不完的苦</p>
   link: '/'
   language: en
   multi_language: true
-  logo:
-  avatar:
+  logo: https://picx.zhimg.com/v2-4a69a7f62af5158587806ddf5ec780e6_xl.jpg
+  avatar: https://picx.zhimg.com/v2-4a69a7f62af5158587806ddf5ec780e6_xl.jpg
   beian:
     number: ''
     link: ''
@@ -52,16 +52,16 @@ authors: zhangyida
 #！ @docs https://aurora.tridiamond.tech/guide/menu.html
 #! ---------------------------------------------------------------
 menu:
-  About: true
+  About: false
   Tags: true
   Archives: true
   Friends: false
-  pages-menu:
-    name: 'MessageBoard'
-    path: '/source/message-board'
-    i18n:
-      cn: 留言板
-      en: Message board
+#  pages-menu:
+#    name: 'MessageBoard'
+#    path: '/source/message-board'
+#    i18n:
+#      cn: 留言板
+#      en: Message board
 
 #! ---------------------------------------------------------------
 #! Theme Config
@@ -126,7 +126,7 @@ gitalk:
   id: uid
   language: en
   distractionFreeMode: true
-  recentComment: true
+  recentComment: false
   proxy: ''
 
 # Valine comment plugin (recommended!)
